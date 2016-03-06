@@ -1,4 +1,6 @@
-By completing this resource you will learn:
 
-- How to control the GPIO pins using Scratch
-- How to receive input from the GPIO pins using Scratch
+
+Pour compléter ces ressources, vous aller apprendre à :
+
+-Controller les Pins du GPIO en utilisant Scratch
+-Recevoir des informations des Pins du GPIO en utilisant Scratch
