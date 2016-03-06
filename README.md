@@ -2,7 +2,7 @@
 
 ![](cover.png)
 
-The version of Scratch included with the Raspberry Pi has a number of unique features; one of the most useful is its ability to communicate with the General-Purpose Input/Output pins, or GPIO. These pins allow you to connect your Raspberry Pi to a range of devices, from lights and motors to buttons and sensors. The Raspberry Pi 2 has 40 GPIO pins, whilst the original Raspberry Pi only has 26, but this workshop will work with either model.
+La version de Scratch incluse avec le Raspberry Pi dispose de fonctionnalités uniques; l'une des plus utilisé étant la communication avec les Pins du GPIO (de l'Anglais General-Purpose Input/Ouput, en Français: Entrée/Sortie pour un Usage Général). Ces Pins vous permettent d'utiliser de nombreux accessoires, tels que des lumières, moteurs, boutons ou encore des capteurs (Température, Humidité, Photorésitance...). Le Raspberry Pi 2 possède 40 Pins, tandis que le premier Raspberry Pi - le modèle A - n'en possède que 26, mais cela ne vous empechera pas d'utilisé Scratch, car il fonctionne avec n'importe quel modèle.
 
 ## Licence
 
