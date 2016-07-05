@@ -1,4 +1,4 @@
-# Physical Computing With Scratch
+# L'informatique physique avec Scratch
 
 ![](cover.png)
 
